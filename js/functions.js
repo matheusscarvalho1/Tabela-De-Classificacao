@@ -1,5 +1,5 @@
 var t0 = {
-    nome: "Pain Gaming",
+    nome: "PSG",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
@@ -7,7 +7,7 @@ var t0 = {
 }
 
 var t1 = {
-    nome: "Flamengo",
+    nome: "Manchester City",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
@@ -15,7 +15,7 @@ var t1 = {
 }
 
 var t2 = {
-    nome: "Vorax",
+    nome: "Liverpool",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
@@ -23,7 +23,7 @@ var t2 = {
 }
 
 var t3 = {
-    nome: "Loud",
+    nome: "Lyon",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
@@ -31,7 +31,7 @@ var t3 = {
 }
 
 var t4 = {
-    nome: "Rensga",
+    nome: "Bayern",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
@@ -39,35 +39,35 @@ var t4 = {
 }
 
 var t5 = {
-    nome: "Cruzeiro",
+    nome: "Borussia Dortmund",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
     pontos: 0,
 }
 var t6 = {
-    nome: "Red Canids",
+    nome: "Barcelona",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
     pontos: 0,
 }
 var t7 = {
-    nome: "Kabum",
+    nome: "Real Madrid",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
     pontos: 0,
 }
 var t8 = {
-    nome: "Intz",
+    nome: "Porto",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
     pontos: 0,
 }
 var t9 = {
-    nome: "Furia",
+    nome: "Ajax",
     vitorias: 0,
     empates: 0,
     derrotas: 0,
